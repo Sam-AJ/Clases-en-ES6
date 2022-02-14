@@ -19,4 +19,4 @@ export default class Impuesto{
     set deducciones(nuevo_deducciones){
         this._deducciones = nuevo_deducciones;
     }
-};
+}

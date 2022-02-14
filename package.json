@@ -1,0 +1,28 @@
+{
+  "name": "desafio-evaluado---clases-en-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamPJA/Clases-en-ES6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamPJA/Clases-en-ES6/issues"
+  },
+  "homepage": "https://github.com/SamPJA/Clases-en-ES6#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.0",
+    "@babel/core": "^7.17.2",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.16.11",
+    "core-js": "^3.21.0"
+  }
+}
